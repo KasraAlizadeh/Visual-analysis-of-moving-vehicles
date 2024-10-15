@@ -2,7 +2,7 @@
 
 This repository contains the final project for the **Image Analysis and Computer Vision course** at *Politecnico di Milano*. The project is based on visual analysis of moving vehicles, leveraging the [Waymo Open Dataset](https://waymo.com/open) to explore and implement techniques for vehicle detection, motion tracking, and analysis of their environment.
 
----
+
 
 ## 📜 Project Overview
 
@@ -24,4 +24,4 @@ The project utilizes the **Waymo Open Dataset**, which is a large-scale autonomo
 
 Waymo's dataset allows detailed exploration of both 2D and 3D visual analysis for vehicle detection and tracking.
 
----
+
